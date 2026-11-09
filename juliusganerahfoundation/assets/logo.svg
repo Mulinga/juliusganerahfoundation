@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110" role="img" aria-labelledby="title desc">
+<title id="title">Julius Ganerah Foundation</title><desc id="desc">A green and gold emblem of two hands supporting a rising sun.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d6848"/><stop offset="1" stop-color="#06432f"/></linearGradient></defs>
+<circle cx="54" cy="54" r="47" fill="url(#g)"/>
+<path d="M18 66 Q30 54 43 64 L54 73 L65 64 Q78 54 90 66" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+<path d="M25 48 Q54 12 83 48" fill="none" stroke="#e8b94f" stroke-width="6" stroke-linecap="round"/>
+<circle cx="54" cy="40" r="10" fill="#e8b94f"/>
+<path d="M54 14v8 M30 25l6 6 M78 25l-6 6" stroke="#e8b94f" stroke-width="4" stroke-linecap="round"/>
+<text x="116" y="45" font-family="Arial,sans-serif" font-size="25" font-weight="800" fill="#104c37">JULIUS GANERAH</text>
+<text x="118" y="73" font-family="Arial,sans-serif" font-size="17" letter-spacing="4" font-weight="700" fill="#b18120">FOUNDATION</text>
+</svg>
